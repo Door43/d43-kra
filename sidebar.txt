@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kra:home|Door43 (kra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kra|d43-kra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kra/archive/master.zip|d43-kra.zip]]
+
+**Recent Changes**
+{{changes>ns = kra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kra|Ethnologue data]]
+
